@@ -30,7 +30,7 @@ jobs:
         with:
           host: 192.168.2.33
           username: root
-          password: 123456a@ 
+          password: 123456@Abc
           script: |
             mkdir -p ~/myapp
             rm -rf ~/myapp/*
